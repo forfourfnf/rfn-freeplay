@@ -36,7 +36,7 @@
 		{
 			"offsets": [
 				78,
-				-158
+				-183
 			],
 			"loop": false,
 			"fps": 24,
@@ -58,7 +58,7 @@
 		{
 			"offsets": [
 				77,
-				-177
+				-242
 			],
 			"loop": false,
 			"fps": 24,
@@ -113,8 +113,8 @@
 		{
 			"loop": false,
 			"offsets": [
-				79,
-				-159
+				78,
+				-182
 			],
 			"anim": "singUP-alt",
 			"fps": 24,
@@ -126,7 +126,7 @@
 	"image": "characters/spooky_kids_assets",
 	"position": [
 		-20,
-		20
+		0
 	],
 	"healthicon": "spooky",
 	"flip_x": false,

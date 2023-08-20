@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<TextureAtlas imagePath="bfpov.png">
+<TextureAtlas imagePath="bfpoverect.png">
 	<!-- Created with Adobe Animate version 22.0.0.93 -->
 	<!-- http://www.adobe.com/products/animate.html -->
 	<SubTexture name="BF NOTE DOWN0000" x="10" y="10" width="822" height="550"/>
