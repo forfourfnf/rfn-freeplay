@@ -1,78 +1,133 @@
 {
 	"animations": [
 		{
-			"loop": false,
 			"offsets": [
-				0,
-				0
+				-10,
+				-99
 			],
-			"anim": "idle",
+			"loop": false,
 			"fps": 24,
-			"name": "benson idle",
-			"indices": []
+			"anim": "idle",
+			"indices": [],
+			"name": "idle"
 		},
 		{
 			"offsets": [
-				50,
-				20
+				176,
+				-108
 			],
 			"loop": false,
 			"fps": 24,
 			"anim": "singLEFT",
 			"indices": [],
-			"name": "benson left"
+			"name": "left"
 		},
 		{
 			"offsets": [
-				10,
-				30
-			],
-			"loop": false,
-			"fps": 24,
-			"anim": "singUP",
-			"indices": [],
-			"name": "benson up"
-		},
-		{
-			"offsets": [
-				10,
-				-20
+				-10,
+				-117
 			],
 			"loop": false,
 			"fps": 24,
 			"anim": "singDOWN",
 			"indices": [],
-			"name": "benson down"
+			"name": "down"
 		},
 		{
 			"offsets": [
-				0,
-				-10
+				59,
+				-53
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "up"
+		},
+		{
+			"offsets": [
+				82,
+				-101
 			],
 			"loop": false,
 			"fps": 24,
 			"anim": "singRIGHT",
 			"indices": [],
-			"name": "benson right"
+			"name": "right"
+		},
+		{
+			"offsets": [
+				-10,
+				-98
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle-alt",
+			"indices": [],
+			"name": "alt idle"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				174,
+				-108
+			],
+			"anim": "singLEFT-alt",
+			"fps": 24,
+			"name": "alt left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-11,
+				-116
+			],
+			"anim": "singDOWN-alt",
+			"fps": 24,
+			"name": "alt down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				63,
+				-53
+			],
+			"anim": "singUP-alt",
+			"fps": 24,
+			"name": "alt up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				79,
+				-102
+			],
+			"anim": "singRIGHT-alt",
+			"fps": 24,
+			"name": "alt right",
+			"indices": []
 		}
 	],
 	"no_antialiasing": false,
 	"image": "characters/senpai",
 	"position": [
-		0,
-		0
+		-150,
+		-50
 	],
-	"healthicon": "senpai-pixel",
+	"healthicon": "senapi-pixel",
 	"flip_x": false,
 	"healthbar_colors": [
-		255,
-		217,
+		16,
+		161,
 		67
 	],
 	"camera_position": [
-		0,
-		0
+		10,
+		130
 	],
 	"sing_duration": 6.1,
-	"scale": 0.4
+	"scale": 1
 }
