@@ -1,0 +1,30 @@
+{
+	"songs": [
+		[
+			"Cocoa",
+			"parents",
+			[
+				255,
+				212,
+				51
+			]
+		]
+	],
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"weekCharacters": [
+		"dad",
+		"gf",
+		"bf"
+	],
+	"storyName": "week1",
+	"weekName": "vs benson",
+	"freeplayColor": [
+		255,
+		212,
+		51
+	],
+	"hideStoryMode": true,
+	"weekBefore": "week1",
+	"startUnlocked": true
+}
