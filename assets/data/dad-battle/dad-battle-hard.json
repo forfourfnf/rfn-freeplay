@@ -7582,10 +7582,20 @@
 				"sectionBeats": 4,
 				"changeBPM": false,
 				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"bpm": 208,
+				"changeBPM": false,
+				"mustHitSection": true,
+				"gfSection": false,
+				"sectionNotes": [],
+				"typeOfSection": 0,
+				"altAnim": false
 			}
 		],
 		"player2": "pico",
-		"gfVersion": "nogf",
+		"gfVersion": "gf",
 		"events": [
 			[
 				4326.92307692308,
