@@ -3,76 +3,76 @@
 		{
 			"loop": false,
 			"offsets": [
-				5,
-				2
-			],
-			"anim": "singLEFT",
-			"fps": 24,
-			"name": "benson left",
-			"indices": []
-		},
-		{
-			"loop": false,
-			"offsets": [
-				-9,
-				3
-			],
-			"anim": "singUP",
-			"fps": 24,
-			"name": "benson up",
-			"indices": []
-		},
-		{
-			"loop": false,
-			"offsets": [
-				3,
-				1
-			],
-			"anim": "singRIGHT",
-			"fps": 24,
-			"name": "benson right",
-			"indices": []
-		},
-		{
-			"loop": false,
-			"offsets": [
 				0,
-				0
+				-239
 			],
 			"anim": "idle",
 			"fps": 24,
-			"name": "benson idle",
+			"name": "idle",
 			"indices": []
 		},
 		{
 			"loop": false,
 			"offsets": [
-				-6,
-				9
+				219,
+				-147
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				113,
+				-221
 			],
 			"anim": "singDOWN",
 			"fps": 24,
-			"name": "benson down",
+			"name": "down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				211,
+				154
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-1,
+				-140
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "right",
 			"indices": []
 		}
 	],
 	"no_antialiasing": false,
 	"image": "characters/monsterChristmas",
 	"position": [
-		0,
+		-30,
 		0
 	],
-	"healthicon": "spirit-pixel",
+	"healthicon": "tankman",
 	"flip_x": false,
 	"healthbar_colors": [
 		255,
-		215,
-		95
+		91,
+		222
 	],
 	"camera_position": [
-		0,
-		0
+		-60,
+		90
 	],
 	"sing_duration": 6.1,
-	"scale": 0.5
+	"scale": 1
 }
